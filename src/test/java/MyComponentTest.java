@@ -14,4 +14,5 @@ public class MyComponentTest {
     @Test
     public void comp_test_method_2() {
     }
+    
 }
